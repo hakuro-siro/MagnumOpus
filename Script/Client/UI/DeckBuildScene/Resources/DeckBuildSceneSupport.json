@@ -1,0 +1,64 @@
+﻿{
+	"SupportSkills": [
+		{
+			"SkillCode": "Overload",
+			"SkillName": "Overload",
+			"SKillID": "Overload",
+			"SkillTitle": "오버로드",
+			"SkillExplain": "캐스팅 속도 : -25%\n공격 속도 : +20%\n공격력 : +25%",
+			"SkillSubTitle": "Overload",
+			"SkillSubExplain": "연산을 과부하하여, 공격의 속도와 공격력을 높인다.\n더 많은 연산을 하게 되지만 강력한 한 방을 노릴 수 있다.",
+			"ImageID": "icon_deckinfo_Core_1"
+		},
+		{
+			"SkillCode": "UnderVolting",
+			"SkillName": "UnderVolting",
+			"SKillID": "UnderVolting",
+			"SkillTitle": "언더 볼팅",
+			"SkillExplain": "공격 범위 : +40%\n캐스팅 속도 : -20%\n공격 속도 & 공격력 : -10%",
+			"SkillSubTitle": "Under Volting",
+			"SkillSubExplain": "차갑게 식혀, 더 넓게 공격한다.\n그러나 공격 범위를 얻은 댓가로 다른 성능은 떨어진다.",
+			"ImageID": "icon_deckinfo_Core_1"
+		},
+		{
+			"SkillCode": "MultiThreading",
+			"SkillName": "MultiThreading",
+			"SKillID": "MultiThreading",
+			"SkillTitle": "멀티 스레딩",
+			"SkillExplain": "캐스팅 속도 : +50%",
+			"SkillSubTitle": "Multi Threading",
+			"SkillSubExplain": "수 많은 스레드를 사용하여 동시에 연산한다.\n늘어난 스레드로 인하여 캐스팅의 속도가 기하급수적으로 빨라진다.",
+			"ImageID": "icon_deckinfo_Core_1"
+		},
+		{
+			"SkillCode": "GateofTruth",
+			"SkillName": "GateofTruth",
+			"SKillID": "GateofTruth",
+			"SkillTitle": "진리의 문",
+			"SkillExplain": "캐스팅 속도 : +30%\n공격 속도 : +20%",
+			"SkillSubTitle": "Gate of Truth",
+			"SkillSubExplain": "진리의 문을 연 자여,\n그대의 힘은 더욱 빨라질 것이다.",
+			"ImageID": "icon_deckinfo_Core_1"
+		},
+		{
+			"SkillCode": "EvilContract",
+			"SkillName": "EvilContract",
+			"SKillID": "EvilContract",
+			"SkillTitle": "사악한 계약",
+			"SkillExplain": "공격 범위 : -20%\n캐스팅 속도 & 공격 속도 : -30%\n공격력 : +50%",
+			"SkillSubTitle": "Evil Contract",
+			"SkillSubExplain": "사악한 계약을 이룬 자여,\n그대는 영혼을 댓가로, 더욱 강력한 힘을 손에 넣을 것이다.",
+			"ImageID": "icon_deckinfo_Core_1"
+		},
+		{
+			"SkillCode": "HolyContract",
+			"SkillName": "HolyContract",
+			"SKillID": "HolyContract",
+			"SkillTitle": "신성한 계약",
+			"SkillExplain": "공격 범위 : +30%\n캐스팅 속도 & 공격 속도 : +10%\n공격력 : -30%",
+			"SkillSubTitle": "Holy Contract",
+			"SkillSubExplain": "신성한 계약을 이룬 자여,\n그대는 힘을 댓가로, 더욱 긴 삶을 영위하게 될 것이다.",
+			"ImageID": "icon_deckinfo_Core_1"
+		}
+	]
+}
